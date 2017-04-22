@@ -1,3 +1,3 @@
 # git-game
 Play with git
-Its cool %)
+Hello cool world!
